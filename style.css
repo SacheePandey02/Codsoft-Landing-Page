@@ -73,7 +73,7 @@ body{
 
 header{
     background-image: linear-gradient(to top, var(--primary-color),transparent),
-    url("Assets/travel joy.jpg");
+    url("travel joy.jpg");
     background-position: center center;
     background-size:cover;
     background-repeat: no-repeat;
