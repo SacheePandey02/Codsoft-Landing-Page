@@ -62,7 +62,7 @@ ScrollReveal().reveal(".blogs_card",{
 ScrollReveal().reveal(".journals_card",{
     interval:400,
 });
-  
+
 
 
 
