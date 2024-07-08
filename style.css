@@ -3,7 +3,7 @@
 :root{
     --primary-color:#354259;
     --primary-color-light:#758694;
-    --secondary-color:#FFE69A;
+    --secondary-color:#FECD70;
     --extra-light: rgba(255,255,255,0.5);
     --white:#ffffff;
     --max-width:1200px;
@@ -23,7 +23,7 @@
 }
 .section_header{
     margin-bottom:2rem;
-    font-size:3rem ;
+    font-size:4rem ;
     font-weight:80;
     font-family:var(--header-font);
     text-align:center;
@@ -385,7 +385,7 @@ header{
     text-align: center;
     font-size: 12rem;
     font-weight: 700;
-    background-image: url("Assets/plateau.jpg");
+    background-image: url("plateau.jpg");
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     -webkit-text-stroke: 1px var(--extra-light);
@@ -500,6 +500,7 @@ header{
    align-items: center;
    justify-content:center;
    gap:2rem;
+   font-size: 2rem;
  }
 
  .footer_socials span a{
